@@ -10,7 +10,7 @@ pridepalettes <- list(
   intersexpride = c("#ffd800", "#7902aa"),
   transpride = c("#5bcefa", "#f5a8b8", "#ffffff"),
   gfluidpride = c("#fe75a1", "#ffffff", "#bd16d6", "#000000", "#323dbb"),
-  gqueerpride = c("#b798dc", "#fefefe", "#6b8e3a"),
+  gqueerpride = c("#b57edc", "#ffffff", "#4A8123"),
   lesbianpride = c("#a40061", "#b75592", "#d063a6", "#ededeb", "#e3abce", "#c54e54", "#8a1e04"),
   nonbinarypride = c("#fef433", "#ffffff", "#9a59cf", "#2d2d2d")
 )
