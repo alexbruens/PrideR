@@ -1,7 +1,6 @@
-# PrideR
-R Palettes based on pride flags.
+# Pride R Palettes
 
-Simple, easy to access palettes of pride flags.
+Simple, easy to access R palettes based on pride flags.
 Thanks, <a href="https://twitter.com/mlreyes_">Matt</a> (or <a href="https://github.com/mattreyes13">github/mattreyes13</a>) for the idea!
 
 Colors drawn from flags at <a href="https://www.pride.com/pride/2018/6/13/complete-guide-queer-pride-flags-0">this article.</a>
